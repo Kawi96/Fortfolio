@@ -132,5 +132,8 @@
                     <p class="texte_happy_unhappy">La campagne de promotion a été un succès (nombreux passages médiatiques, top10 des ventes de l’Harmattan pour le 1er trimestre 2018). L’objectif concernant l’autisme à également été un succès : De nombreuses personnes concernées par ce handicap m’ont dit que je les avais aidé.</p>
                 </div>
         </section>
+        <footer>
+            <?php include("includes/footer.html"); ?>
+        </footer>
     </body>
 </html>

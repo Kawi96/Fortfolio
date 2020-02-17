@@ -37,7 +37,9 @@
             <img id="image_note_python" src="images/ux_ui.png" name="notes_ux_ui" alt="Relevé de notes d'UX-UI">
              
         </section>
-        
+          <footer>
+            <?php include("includes/footer.html"); ?>
+        </footer>
 
     </body>
     

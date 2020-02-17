@@ -168,8 +168,11 @@
         <section class="contactez_moi"> 
             <h1 id="contactez_moi">contactez moi :)</h1>
                 <h2>Je suis sur <a href="https://www.linkedin.com/in/guillaume-alemany-91693b18a/"><img id="linkedin" src="images/linkedin.png" name="logo_linkedin" alt="logo_linkedin"></a> ! </h2>
-                <h2>Vous pouvez également me laisser un message ici :<a href="html/formulaire_de_contact.php">contact</a></h2>
+                <h2>Vous pouvez également me laisser un message ici :<a href="formulaire_de_contact.php">contact</a></h2>
         </section> 
+          <footer>
+            <?php include("includes/footer.html"); ?>
+        </footer>
 
     </body>
     

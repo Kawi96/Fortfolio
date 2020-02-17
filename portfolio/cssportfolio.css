@@ -24,6 +24,13 @@ h2 {
     padding-top: 3%;
 }
 
+footer {
+    border-top: 1px solid black;
+    display: flex;
+    font-style: italic;
+}
+
+
 .element_en_gras {
     font-weight: bolder;
     color: red;
@@ -198,9 +205,11 @@ h2 {
     flex-direction: row;
     padding-bottom: 2%;
 }
-#zone_de_texte{
-    justify-content: flex-start;
-    padding-bottom: 2%;
-    width: 500px;
-    height: 200px;
+
+form {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10%;
 }
+
+
