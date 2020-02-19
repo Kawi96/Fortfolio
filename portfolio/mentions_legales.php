@@ -9,32 +9,35 @@
 <?php include("includes/menu.php"); ?>
 
 <p>
-Conformément aux dispositions de la loi n° 2004-575 du 21 juin 2004 pour la confiance en l’économie numérique, il est précisé aux utilisateurs du site legalplace.fr l’identité des différents intervenants dans le cadre de sa réalisation et de son suivi.
+Conformément aux dispositions de la loi n° 2004-575 du 21 juin 2004 pour la confiance en l’économie numérique, il est précisé aux utilisateurs du site guillaume-alemany-portfolio.fr l’identité des différents intervenants dans le cadre de sa réalisation et de son suivi.
 <br/><br/>
 
 <span class="element_en_gras">Edition du site</span> <br/>
-Le site legalplace.fr est édité par la société LegalPlace, société par actions simplifiée au capital de 10.051,50 euros, dont le siège social est situé 7 rue Marcel Dassault, 92100 Boulogne-Billancourt, immatriculée au registre du commerce et des sociétés sous le numéro d’identification unique 814 428 785 RCS Nanterre.
+Le site guillaume-alemany-portfolio.fr est édité par Guillaume Alemany, étudiant en Bachelor 1 Informatique à Campus Academy, dont le siège social est situé au 213 route de Rennes à Orvault (44700). La création de ce site Internet a été effectué dans le cadre d'un projet d'étude nommé "Campus Contest" inclus dans le programme de B1 Informatique de Campus Academy. Le Campus Contest est une épreuve de mise en pratique des connaissances acquises en developpement Web durant le premier semestre de la Bachelor 1 en informatique.
 <br/><br/>
 
-Responsable de publication : Guillaume Alemany
+<span class="element_en_gras">Responsable de publication :</span><br/>
+ Guillaume Alemany
 <br/><br/>
 <span class="element_en_gras">Hébergeur : </span><br/>
-Le site legalplace.fr est hébergé par la société Amazon Web Services LLC
+Le site guillaume-alemany-portfolio.fr est hébergé par la société Infomaniak
 <br/><br/>
 
-<span class="element_en_gras">Adresse:</span><br/>
+<span class="element_en_gras">Adresse :</span><br/>
  Campus Academy<br/>
  Campus de Kerkann<br/>
  Rue Pierre de Maupertuis<br/>
  35170 Bruz
 <br/><br/>
 
-Le stockage des données personnelles des Utilisateurs est exclusivement réalisé sur les centre de données (« clusters ») localisés dans des Etats membres de l’Union Européenne de la société Amazon Web Services LLC
+Le stockage des données personnelles des Utilisateurs est exclusivement réalisé sur les centre de données (« clusters ») localisés dans des Etats membres de l’Union Européenne de la société Infomaniak.
 <br/><br/>
 
 <span class="element_en_gras">Nous contacter : </span><br/>
 Par email : guillaume.alemany@students.campus.academy<br/>
-Directement via notre site : <a href="formulaire_de_contact.php">Formulaire de contact</a>
+Directement via notre site : <a href="formulaire_de_contact.php">Formulaire de contact</a><br/>
+Les données personnelles récoltées au moment de l'envoie du formulaire de contact ne seront pas utilisées à des fins commerciales. Ce formulaire a seulement pour objectif de permettre aux utilisateurs du site guillaume-alemany-portfolio.fr de transmettre des avis ou des conseils concernant le site en question.
+
 <br/><br/>
 
 Conformément aux dispositions de la loi 78-17 du 6 janvier 1978 modifiée, l’Utilisateur dispose d’un droit d’accès, de modification et de suppression des informations collectées par Guillaume Alemany. Pour exercer ce droit, il reviendra à l’Utilisateur d’envoyer un message à l’adresse suivante : guillaume.alemany@students.campus.academy

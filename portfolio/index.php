@@ -140,16 +140,16 @@
             <h1 id="experiences_detaillees">expériences détaillées</h1>
 
                 <h2>Tableau de comptabilité d’AD Ingé</h2>
-                    <a href="html/experiences_notables.php#experience_tableau_de_compta">Pour plus détails cliquez sur ce lien</a>
+                    <a href="experiences_notables.php#experience_tableau_de_compta">Pour plus détails cliquez sur ce lien</a>
 
                 <h2>L’appel d’offre du marché des JO de Paris 2024</h2>
-                    <a href="html/experiences_notables.php#experience_jeux_olympiques">Pour plus détails cliquez sur ce lien</a>
+                    <a href="experiences_notables.php#experience_jeux_olympiques">Pour plus détails cliquez sur ce lien</a>
 
                 <h2>Les enquête sociologiques les besoins des adultes autistes</h2>
-                    <a href="html/experiences_notables.php#experience_enquete_asperansa">Pour plus détails cliquez sur ce lien</a>
+                    <a href="experiences_notables.php#experience_enquete_asperansa">Pour plus détails cliquez sur ce lien</a>
 
                 <h2>Promotion de mon livre</h2>
-                    <a href="html/experiences_notables.php#promotion_de_kawi">Pour plus détails cliquez sur ce lien</a>
+                    <a href="experiences_notables.php#promotion_de_kawi">Pour plus détails cliquez sur ce lien</a>
         </section>
 
         <section class="mes_recommandation">  
