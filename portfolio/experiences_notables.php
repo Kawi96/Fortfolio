@@ -1,17 +1,10 @@
-<!DOCTYPE html>
-<html lang="fr">
-    
-    <head>
-        <title>Expériences notables</title>
-        <meta charset="utf-8">
-        <link href="../cssportfolio.css" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">
-    </head>
-    <body>
+
+
         
         <! -- Menu réalisé en PHP -->
         <?php include("includes/menu.php"); ?>
         
+        <body>
          <section class="corp_de_texte_experiences">
         <h1 id="experience_tableau_de_compta">Les synthèse du tableau de comptabilité d’AD Ingé</h1>
        

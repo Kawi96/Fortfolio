@@ -1,12 +1,10 @@
-<head>
-	<meta charset="utf-8">
-	<title>Mentions Légales</title>
-	<link rel="stylesheet" type="text/css" href="../cssportfolio.css">
-</head>
-<body>
+
+
 
 
 <?php include("includes/menu.php"); ?>
+
+<body>
 
 <p>
 Conformément aux dispositions de la loi n° 2004-575 du 21 juin 2004 pour la confiance en l’économie numérique, il est précisé aux utilisateurs du site guillaume-alemany-portfolio.fr l’identité des différents intervenants dans le cadre de sa réalisation et de son suivi.

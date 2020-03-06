@@ -2,7 +2,7 @@
 $user = "root";
 $pass = "";
 try {
-    $dbh = new PDO('mysql:host=localhost;dbname=portfolio', $user, $pass);
+    $dbh = new PDO('mysql:host=localhost:3308;dbname=portfolio', $user, $pass);
    // foreach($dbh->query('SELECT * from formulaire_contact') as $row) {
       //  print_r($row);
 

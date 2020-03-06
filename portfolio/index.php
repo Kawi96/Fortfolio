@@ -1,17 +1,9 @@
-<!DOCTYPE html>
-<html lang="fr">
-    
-    <head>
-        <title>Portolio</title>
-        <meta charset="utf-8">
-        <link href="cssportfolio.css" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">
-    </head>
-    <body>
+
+
 
         <! -- Menu réalisé en PHP -->
         <?php include("includes/menu.php"); ?>
-        
+     <body>       
         
         <header class="sommaire">
             <h2>sommaire</h2>
@@ -39,7 +31,7 @@
             </div>
              <div class="happy_unhappy">
                 <img class=image src="images/smiley_triste.webp" name="smiley_triste" alt="smiley_triste">
-                <p class="texte_happy_unhappy">Malheuresement je suis également <span class="element_en_gras">ultra nul en design ! </span>Aussi : J'éprouve des difficultés a éffectuer des taches quand je n'en comprends pas la logique</p>
+                <p class="texte_happy_unhappy">Malheuresement j'éprouve également des difficultés dans certains domaines. J'ai par exemple du mal à éffectuer des taches quand je n'en comprends pas la logique.</p>
             </div> 
             <p>Je peux être capable de produire un travail de qualité et d'innover mais j'aurais toujours du mal à bien présenter les choses au niveau de la forme. Pour illuster cela je peux citer une phrase de Fabrice Emeriau à propos de mon travail concernant le tableau de compta d'AD Ingé (sujet traité ci dessous) : "Guillaume, tu as démontré avec le tableau de compta que tu es capables de faire de faire du très bon travail. Cependant, tu as un sérieux problème avec la mise en forme et les gens risquent de ne pas utiliser tes outils si ils ne sont pas bien présentés".</p>
             <p>L'évaluation que nous avons en python illustre très bien cela : <a href="html/tppython.html">TPpython</a></p>
